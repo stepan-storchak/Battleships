@@ -123,10 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="AIPlayer.hpp" />
     <ClInclude Include="CellState.hpp" />
     <ClInclude Include="Color.hpp" />
     <ClInclude Include="Coordinate.hpp" />
     <ClInclude Include="GameBoard.hpp" />
+    <ClInclude Include="HumanPlayer.hpp" />
     <ClInclude Include="Player.hpp" />
     <ClInclude Include="Ship.hpp" />
     <ClInclude Include="ShotResult.hpp" />
@@ -135,6 +137,7 @@
     <ClCompile Include="Color.cpp" />
     <ClCompile Include="GameBoard.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Player.cpp" />
     <ClCompile Include="Ship.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
