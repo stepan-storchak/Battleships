@@ -136,6 +136,7 @@
   <ItemGroup>
     <ClCompile Include="Color.cpp" />
     <ClCompile Include="GameBoard.cpp" />
+    <ClCompile Include="HumanPlayer.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Ship.cpp" />
