@@ -134,6 +134,7 @@
     <ClInclude Include="ShotResult.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="AIPlayer.cpp" />
     <ClCompile Include="Color.cpp" />
     <ClCompile Include="GameBoard.cpp" />
     <ClCompile Include="HumanPlayer.cpp" />
