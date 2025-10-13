@@ -130,6 +130,7 @@
     <ClInclude Include="Game.hpp" />
     <ClInclude Include="GameBoard.hpp" />
     <ClInclude Include="HumanPlayer.hpp" />
+    <ClInclude Include="Leaderboard.hpp" />
     <ClInclude Include="Player.hpp" />
     <ClInclude Include="Ship.hpp" />
     <ClInclude Include="ShotResult.hpp" />
@@ -140,6 +141,7 @@
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="GameBoard.cpp" />
     <ClCompile Include="HumanPlayer.cpp" />
+    <ClCompile Include="Leaderboard.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Ship.cpp" />
