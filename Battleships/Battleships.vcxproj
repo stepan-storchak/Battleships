@@ -127,6 +127,7 @@
     <ClInclude Include="CellState.hpp" />
     <ClInclude Include="Color.hpp" />
     <ClInclude Include="Coordinate.hpp" />
+    <ClInclude Include="Game.hpp" />
     <ClInclude Include="GameBoard.hpp" />
     <ClInclude Include="HumanPlayer.hpp" />
     <ClInclude Include="Player.hpp" />
@@ -136,6 +137,7 @@
   <ItemGroup>
     <ClCompile Include="AIPlayer.cpp" />
     <ClCompile Include="Color.cpp" />
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="GameBoard.cpp" />
     <ClCompile Include="HumanPlayer.cpp" />
     <ClCompile Include="main.cpp" />
